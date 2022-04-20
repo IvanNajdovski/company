@@ -48,6 +48,10 @@
     & :last-child label {
       background: $app-background-gray;
     }
+    & input:checked + label {
+      background: $app-background-secondary;
+      color: $app-text-color-white;
+    }
   }
 }
 
