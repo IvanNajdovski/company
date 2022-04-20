@@ -1,0 +1,132 @@
+[
+  {
+    "legend": "Planning",
+    "key": "planning",
+    "inputs": [
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "planingOption1",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "pl1Option1" },
+          { "value": "2", "id": "pl1Option2" },
+          { "value": "3", "id": "pl1Option3" },
+          { "value": "4", "id": "pl1Option4" },
+          { "value": "5", "id": "pl1Option5" },
+          { "value": "n/a", "id": "pl1Option6" }
+        ]
+      },
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "planingOption2",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "pl2Option1" },
+          { "value": "2", "id": "pl2Option2" },
+          { "value": "3", "id": "pl2Option3" },
+          { "value": "4", "id": "pl2Option4" },
+          { "value": "5", "id": "pl2Option5" },
+          { "value": "n/a", "id": "pl2Option6" }
+        ]
+      }
+    ]
+  },
+  {
+    "legend": "Delivering",
+    "key": "delivering",
+    "inputs": [
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "deliveringOption1",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "del1Option1" },
+          { "value": "2", "id": "del1Option2" },
+          { "value": "3", "id": "del1Option3" },
+          { "value": "4", "id": "del1Option4" },
+          { "value": "5", "id": "del1Option5" },
+          { "value": "n/a", "id": "del1Option6" }
+        ]
+      },
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "deliveringOption2",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "del2Option1" },
+          { "value": "2", "id": "del2Option2" },
+          { "value": "3", "id": "del2Option3" },
+          { "value": "4", "id": "del2Option4" },
+          { "value": "5", "id": "del2Option5" },
+          { "value": "n/a", "id": "del2Option6" }
+        ]
+      },
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "deliveringOption3",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "del3Option1" },
+          { "value": "2", "id": "del3Option2" },
+          { "value": "3", "id": "del3Option3" },
+          { "value": "4", "id": "del3Option4" },
+          { "value": "5", "id": "del3Option5" },
+          { "value": "n/a", "id": "del3Option6" }
+        ]
+      }
+    ]
+  },
+  {
+    "legend": "Lorem",
+    "key": "lorem",
+    "inputs": [
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "loremOption1",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "lor1Option1" },
+          { "value": "2", "id": "lor1Option2" },
+          { "value": "3", "id": "lor1Option3" },
+          { "value": "4", "id": "lor1Option4" },
+          { "value": "5", "id": "lor1Option5" },
+          { "value": "n/a", "id": "lor1Option6" }
+        ]
+      },
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "loremOption2",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "lor2Option1" },
+          { "value": "2", "id": "lor2Option2" },
+          { "value": "3", "id": "lor2Option3" },
+          { "value": "4", "id": "lor2Option4" },
+          { "value": "5", "id": "lor2Option5" },
+          { "value": "n/a", "id": "lor2Option6" }
+        ]
+      },
+      {
+        "label": "Sets clear and realistic goals, working with others to ensure understanding and agreement *",
+        "name": "loremOption3",
+        "type": "radio",
+
+        "options": [
+          { "value": "1", "id": "lor3Option1" },
+          { "value": "2", "id": "lor3Option2" },
+          { "value": "3", "id": "lor3Option3" },
+          { "value": "4", "id": "lor3Option4" },
+          { "value": "5", "id": "lor3Option5" },
+          { "value": "n/a", "id": "lor3Option6" }
+        ]
+      }
+    ]
+  }
+]

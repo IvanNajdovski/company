@@ -1,0 +1,12 @@
+.btn-primary {
+  color: $app-text-color-white;
+  font-family: "CircularStd";
+  font-size: 1rem;
+  font-weight: 700;
+  background: $app-background-secondary;
+  padding: 0.8rem 1rem;
+  border-radius: 20px 20px 0 20px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
